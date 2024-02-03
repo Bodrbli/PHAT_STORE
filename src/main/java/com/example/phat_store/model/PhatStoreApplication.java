@@ -1,4 +1,4 @@
-package com.example.phat_store;
+package com.example.phat_store.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
